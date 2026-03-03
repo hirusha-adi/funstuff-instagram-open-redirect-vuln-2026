@@ -1,0 +1,1 @@
+# funstuff-instagram-open-redirect-vuln-2026
